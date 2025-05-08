@@ -1,0 +1,16 @@
+{
+  "destinations": [
+    {
+      "name": "Paris",
+      "description": "The city of lights, known for the Eiffel Tower and rich art culture."
+    },
+    {
+      "name": "Kyoto",
+      "description": "Explore traditional Japanese culture, temples, and cherry blossoms."
+    },
+    {
+      "name": "New York",
+      "description": "A vibrant city that never sleeps, filled with iconic landmarks."
+    }
+  ]
+}
